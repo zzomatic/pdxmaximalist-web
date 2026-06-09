@@ -1,0 +1,42 @@
+.card {
+  border: var(--border-thick);
+  box-shadow: var(--shadow);
+  padding: 48px 32px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: var(--font-display);
+}
+
+.body {
+  font-size: 16px;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border: var(--border-thick);
+  box-shadow: var(--shadow-sm);
+  text-decoration: none;
+  font-family: var(--font-body);
+  font-size: 14px;
+  background-color: var(--bg);
+  color: var(--fg);
+  transition: all 0.1s ease;
+  min-height: 44px;
+}
+
+.button:hover {
+  background-color: var(--fg);
+  color: var(--bg);
+  box-shadow: none;
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- White background -->
+  <rect width="32" height="32" fill="#ffffff"/>
+  <!-- Thick black border -->
+  <rect x="1.5" y="1.5" width="29" height="29" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Bold P: vertical stem + bowl -->
+  <!-- Stem -->
+  <rect x="9" y="7" width="4" height="18" fill="#000000"/>
+  <!-- Bowl top bar -->
+  <rect x="9" y="7" width="11" height="4" fill="#000000"/>
+  <!-- Bowl right side -->
+  <rect x="17" y="7" width="4" height="11" fill="#000000"/>
+  <!-- Bowl bottom bar -->
+  <rect x="9" y="14" width="12" height="4" fill="#000000"/>
+</svg>

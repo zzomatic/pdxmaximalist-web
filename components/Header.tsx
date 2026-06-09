@@ -1,0 +1,41 @@
+'use client'
+import Link from 'next/link'
+import { usePathname } from 'next/navigation'
+import styles from './Header.module.css'
+
+const navLinks = [
+  { label: 'shows', href: '/' },
+  { label: 'places & spaces', href: '/places' },
+  { label: 'about', href: '/about' },
+  { label: 'merch', href: '/merch' },
+  { label: 'contact', href: '/contact' },
+]
+
+export default function Header() {
+  const pathname = usePathname()
+
+  return (
+    <header id="site-header" className={styles.header}>
+      <div className={styles.inner}>
+        <div className={styles.titleBox}>
+          <h1 className={styles.title}>PDXmaximaLIST.info/</h1>
+        </div>
+        <nav className={styles.nav} aria-label="Main navigation">
+          {navLinks.map(({ label, href }) => {
+            const isActive = pathname === href
+            return (
+              <Link
+                key={href}
+                href={href}
+                className={`${styles.tab} ${isActive ? styles.tabActive : ''}`}
+                aria-current={isActive ? 'page' : undefined}
+              >
+                //{label}//
+              </Link>
+            )
+          })}
+        </nav>
+      </div>
+    </header>
+  )
+}

@@ -1,0 +1,61 @@
+/* .card {
+  border: var(--border-thick);
+  box-shadow: var(--shadow);
+  padding: 3px;
+  transition: box-shadow 0.1s ease, transform 0.1s ease;
+} */
+
+.card:hover {
+  box-shadow: var(--shadow-sm);
+  /* transform: translate(2px, 2px); */
+}
+
+.artist {
+  font-size: 16px;
+  /* font-weight: bold; */
+  margin-bottom: 2px;
+}
+
+.meta {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.address {
+  font-size: 13px;
+  margin-bottom: 0px;
+  opacity: 1;
+}
+
+.price {
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 0px;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0px 0px;
+  text-decoration: none;
+  font-family: var(--font-body);
+  font-size: 14px;
+  background-color: var(--bg);
+  color: var(--fg);
+  transition: all 0.1s ease;
+  min-height: 30px;
+}
+
+.button:hover {
+  background-color: var(--fg);
+  color: var(--bg);
+  box-shadow: none;
+  text-decoration: none;
+}

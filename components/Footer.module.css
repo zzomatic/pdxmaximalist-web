@@ -1,0 +1,12 @@
+.footer {
+  border-top: 2px dashed #000000;
+  padding: 16px 24px;
+  margin-top: 48px;
+}
+
+.inner {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 14px;
+}

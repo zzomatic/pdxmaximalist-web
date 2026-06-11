@@ -1,5 +1,5 @@
 'use client'
-import { useState, useRef, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import type { Event } from '@/lib/types'
 import VenueGroup from './VenueGroup'
 import styles from './ShowsTabView.module.css'
@@ -26,10 +26,11 @@ type Props = {
   grouped: Record<string, Event[]>
   dates: string[]
   tabLabels: Record<string, string>
+  tabAriaLabels: Record<string, string>
   dateHeaders: Record<string, string>
 }
 
-export default function ShowsTabView({ grouped, dates, tabLabels, dateHeaders }: Props) {
+export default function ShowsTabView({ grouped, dates, tabLabels, tabAriaLabels, dateHeaders }: Props) {
   const [activeDate, setActiveDate] = useState(dates[0] ?? '')
   useEffect(() => {
     const update = () => {
@@ -53,10 +54,11 @@ export default function ShowsTabView({ grouped, dates, tabLabels, dateHeaders }:
               key={date}
               role="tab"
               aria-selected={date === activeDate}
+              aria-label={tabAriaLabels[date]}
               className={`${styles.tab} ${date === activeDate ? styles.tabActive : ''}`}
               onClick={() => setActiveDate(date)}
             >
-              /{tabLabels[date]}/
+              <span aria-hidden="true">/</span>{tabLabels[date]}<span aria-hidden="true">/</span>
             </button>
           ))}
         </div>

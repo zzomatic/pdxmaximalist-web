@@ -28,7 +28,7 @@ export default function EventCard({ event }: Props) {
               rel="noopener noreferrer"
               className={styles.button}
             >
-              //more info//
+              <span aria-hidden="true">//</span>more info<span aria-hidden="true">//</span>
             </a>
           )}
           {event.ticket_url && (

@@ -4,11 +4,12 @@ import { usePathname } from 'next/navigation'
 import styles from './Header.module.css'
 
 const navLinks = [
-  { label: 'shows', href: '/' },
+  { label: 'show list', href: '/' },
+  // { label: 'more lists', href: '/more-lists' },
   { label: 'places & spaces', href: '/places' },
   { label: 'about', href: '/about' },
-  { label: 'merch', href: '/merch' },
-  { label: 'contact', href: '/contact' },
+  // { label: 'merch', href: '/merch' },
+  // { label: 'contact', href: '/contact' },
 ]
 
 export default function Header() {
@@ -30,7 +31,7 @@ export default function Header() {
                 className={`${styles.tab} ${isActive ? styles.tabActive : ''}`}
                 aria-current={isActive ? 'page' : undefined}
               >
-                //{label}//
+                <span aria-hidden="true">//</span>{label}<span aria-hidden="true">//</span>
               </Link>
             )
           })}

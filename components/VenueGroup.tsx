@@ -31,7 +31,7 @@ export default function VenueGroup({ venue_name, venue_address, shows }: Props) 
                     rel="noopener noreferrer"
                     className={styles.button}
                   >
-                    //more info//
+                    <span aria-hidden="true">//</span>more info<span aria-hidden="true">//</span>
                   </a>
                 )}
                 {/* {show.ticket_url && (

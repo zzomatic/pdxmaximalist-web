@@ -17,6 +17,14 @@ function formatTabLabel(dateStr: string): string {
   return `${dow} ${mon} ${d}`
 }
 
+function formatTabAriaLabel(dateStr: string): string {
+  const [year, month, day] = dateStr.split('-').map(Number)
+  const date = new Date(year, month - 1, day)
+  const dow = date.toLocaleDateString('en-US', { weekday: 'long' })
+  const mon = date.toLocaleDateString('en-US', { month: 'long' })
+  return `${dow}, ${mon} ${day}`
+}
+
 function formatDateHeader(dateStr: string): string {
   const [year, month, day] = dateStr.split('-').map(Number)
   const date = new Date(year, month - 1, day)
@@ -63,7 +71,8 @@ export default function ShowsPage() {
   }
 
   const tabLabels = Object.fromEntries(dates.map(d => [d, formatTabLabel(d)]))
+  const tabAriaLabels = Object.fromEntries(dates.map(d => [d, formatTabAriaLabel(d)]))
   const dateHeaders = Object.fromEntries(dates.map(d => [d, formatDateHeader(d)]))
 
-  return <ShowsTabView grouped={grouped} dates={dates} tabLabels={tabLabels} dateHeaders={dateHeaders} />
+  return <ShowsTabView grouped={grouped} dates={dates} tabLabels={tabLabels} tabAriaLabels={tabAriaLabels} dateHeaders={dateHeaders} />
 }

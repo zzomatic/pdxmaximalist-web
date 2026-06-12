@@ -60,6 +60,7 @@ export default function PlacesPage() {
 <li>Kaul Auditorium</li>
 <li>Keller Auditorium</li>
 <li>Kelly's Olympian</li>
+<li>Kenton Club</li>
 <li>Keys Lounge</li>
 <li>Kickstand</li>
 <li>L'Atelier Yaffe</li>
@@ -122,9 +123,8 @@ export default function PlacesPage() {
 <li>Spinella's</li>
 <li>Star Theater</li>
 <li>Starday Tavern</li>
-<li>Sun Rice</li>
+{/* <li>Sun Rice</li> */}
 <li>Super-Electric Records</li>
-<li>Susurrus Station</li>
 <li>Swan Dive</li>
 <li>The 1905</li>
 <li>The Den</li>
@@ -157,7 +157,6 @@ export default function PlacesPage() {
 <li>Wonder Ballroom</li>
 <li>WonderLove</li>
 <li>Word Virus</li>
-<li>World Famous Kenton Club</li>
 <li>World Forestry Center</li>
 <li>Wyrd Hut</li>
 <li>Zero Wave</li>

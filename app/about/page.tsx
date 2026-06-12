@@ -11,19 +11,22 @@ export default function AboutPage() {
     <>
       <h1>ABOUT</h1>
       <p>
-        This project is an attempt to provide accessible succinct information about goings-on in Portlnad, Oregon. We aim to provide an alternative to social media's grip on your nervous system, with minimal interface and maximum content.
-      
+        This project started as a paper trifold events calendar and a desire to provide succinct accessible information about goings-on in Portlnad, Oregon, and an alternative to social media's grip on your nervous system, with minimal interface and maximum content.
       </p>
+
       <h2 >CONTACT PDXmaximaLIST</h2>
-       <p className={styles.tagline}>comments, corrections, or to contribute show flyers or info...</p>
+       <p className={styles.tagline}>comments, corrections, collaborations, or to contribute show flyers & info...</p>
         <a
           href="mailto:pdxmaximalist@gmail.com"
           className={shared.button}
         >
           //email us//
         </a>
-        <p className={styles.email}>pdxmaximalist@gmail.com</p>
 
+      <h2>DONATIONS</h2>
+        <p>
+          If you'd like to donate money to keep this project going, you can <a href="https://buymeacoffee.com/xomatic.studio" target="_blank" rel="noopener noreferrer">donate or buy me a coffee</a>
+        </p>
     </>
   )
 }

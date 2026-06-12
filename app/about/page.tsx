@@ -15,7 +15,7 @@ export default function AboutPage() {
       </p>
 
       <h2 >CONTACT PDXmaximaLIST</h2>
-       <p className={styles.tagline}>comments, corrections, collaborations, or to contribute show flyers & info...</p>
+       <p className={styles.tagline}>If you have comments, corrections, collaborations, or to contribute show flyers & info...</p>
         <a
           href="mailto:pdxmaximalist@gmail.com"
           className={shared.button}

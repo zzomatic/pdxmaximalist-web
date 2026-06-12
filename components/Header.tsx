@@ -7,7 +7,7 @@ const navLinks = [
   { label: 'show list', href: '/' },
   { label: 'more lists', href: '/more-lists' },
   // { label: 'places & spaces', href: '/places' },
-  // { label: 'merch', href: '/merch' },
+  { label: 'merch', href: '/merch' },
   { label: 'about', href: '/about' },
   // { label: 'contact', href: '/contact' },
 ]

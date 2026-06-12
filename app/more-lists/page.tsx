@@ -10,7 +10,7 @@ export default function FriendsPage() {
     <>
       <h1 className={styles.pageHeader}>MORE LISTS</h1>
       <div className={`${styles.card}`}>
-        <ol>
+        <ul>
           <li><a href="http://www.foopee.com/punk/the-list/">The List</a> SF inspiration</li>
           <li><a href="flyerescape.dad">flyerescape.dad</a> list of PDX show flyers</li>
           <li><a href="https://portland.craigslist.org/">Craigslist</a></li>
@@ -24,7 +24,7 @@ export default function FriendsPage() {
           <li><a href="https://en.wikipedia.org/wiki/Ten_Commandments">Ten Commandments</a></li>
           <li><a href="https://en.wikipedia.org/wiki/List_of_lists_of_lists">List of lists of lists</a></li>
         
-        </ol>
+        </ul>
       </div>
     </>
   )

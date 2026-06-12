@@ -5,10 +5,10 @@ import styles from './Header.module.css'
 
 const navLinks = [
   { label: 'show list', href: '/' },
-  // { label: 'more lists', href: '/more-lists' },
-  { label: 'places & spaces', href: '/places' },
+  { label: 'more lists', href: '/more-lists' },
+  // { label: 'places & spaces', href: '/places' },
+  { label: 'merch', href: '/merch' },
   { label: 'about', href: '/about' },
-  // { label: 'merch', href: '/merch' },
   // { label: 'contact', href: '/contact' },
 ]
 

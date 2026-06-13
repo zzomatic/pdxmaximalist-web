@@ -3,6 +3,7 @@ import '@/styles/globals.css'
 import styles from './layout.module.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   title: 'PDXmaximaLIST.info',
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Header />
         <main className={styles.main}>
           {children}
+          <Analytics />
         </main>
         <Footer />
       </body>

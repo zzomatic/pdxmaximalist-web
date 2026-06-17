@@ -1,10 +1,10 @@
 import type { Metadata } from 'next'
-import styles from '@/app/shared.module.css'
-import shared from '@/app/shared.module.css'
 
 export const metadata: Metadata = {
   title: 'PDXmaximaLIST.info — about',
 }
+
+const btnClass = 'inline-flex items-center px-3 py-[6px] no-underline font-mono text-[14px] bg-white text-black transition-all duration-100 min-h-[44px] cursor-pointer hover:bg-black hover:text-white hover:no-underline'
 
 export default function AboutPage() {
   return (
@@ -14,19 +14,16 @@ export default function AboutPage() {
         This project started as a paper trifold events calendar and a desire to provide succinct accessible information about goings-on in Portlnad, Oregon, and an alternative to social media's grip on your nervous system, with minimal interface and maximum content.
       </p>
 
-      <h2 >CONTACT PDXmaximaLIST</h2>
-       <p className={styles.tagline}>If you have comments, corrections, collaborations, or to contribute show flyers & info...</p>
-        <a
-          href="mailto:pdxmaximalist@gmail.com"
-          className={shared.button}
-        >
-          //email us//
-        </a>
+      <h2>CONTACT PDXmaximaLIST</h2>
+      <p>If you have comments, corrections, collaborations, or to contribute show flyers &amp; info...</p>
+      <a href="mailto:pdxmaximalist@gmail.com" className={btnClass}>
+        //email us//
+      </a>
 
       <h2>DONATIONS</h2>
-        <p>
-          If you'd like to donate money to keep this project going, you can <a href="https://buymeacoffee.com/xomatic.studio" target="_blank" rel="noopener noreferrer">donate or buy me a coffee</a>
-        </p>
+      <p>
+        If you&apos;d like to donate money to keep this project going, you can <a href="https://buymeacoffee.com/xomatic.studio" target="_blank" rel="noopener noreferrer">donate or buy me a coffee</a>
+      </p>
     </>
   )
 }

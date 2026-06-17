@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 import '@/styles/globals.css'
-import styles from './layout.module.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import PostHogProvider from '@/components/PostHogProvider'
 import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
@@ -24,12 +24,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Header />
-        <main className={styles.main}>
-          {children}
-          <Analytics />
-        </main>
-        <Footer />
+        <PostHogProvider>
+          <Header />
+          <main className="max-w-[700px] mx-auto px-4 py-6 sm:px-6 sm:py-8">
+            {children}
+            <Analytics />
+          </main>
+          <Footer />
+        </PostHogProvider>
       </body>
     </html>
   )

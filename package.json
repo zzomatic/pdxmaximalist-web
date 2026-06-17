@@ -10,15 +10,21 @@
     "deploy": "git add lib/events.json && git commit -m 'sync events' && git push"
   },
   "dependencies": {
+    "@libsql/client": "^0.17.4",
     "@vercel/analytics": "^2.0.1",
     "next": "^16.2.9",
+    "posthog-js": "^1.386.8",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "resend": "^6.12.4",
+    "stripe": "^22.2.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
     "@types/node": "^20",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
+    "tailwindcss": "^4.3.1",
     "typescript": "^5"
   }
 }

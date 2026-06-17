@@ -1,48 +1,51 @@
-/* Design tokens — HyperCard Revival aesthetic */
+@import "tailwindcss";
+
+@theme {
+  --font-family-mono: 'Courier New', Courier, monospace;
+  --font-family-sans: 'Courier New', Courier, monospace;
+  --font-family-serif: 'Courier New', Courier, monospace;
+  --font-family-display: 'Courier New', Courier, monospace;
+  --font-family-body: 'Courier New', Courier, monospace;
+  --color-bg: #FFFFFF;
+  --color-fg: #000000;
+}
+
 :root {
   --bg: #FFFFFF;
   --fg: #000000;
   --font-body: 'Courier New', Courier, monospace;
   --font-display: 'Courier New', Courier, monospace;
-  /* --border: 1px solid #000000; */
-  /*   --border-thick: 2px solid #000000; 
---shadow: 4px 4px 0px #000000;
-  --shadow-sm: 2px 2px 0px #000000; */
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+* {
+  border-radius: 0 !important;
 }
 
 html,
 body {
-  background-color: var(--bg);
-  color: var(--fg);
-  font-family: var(--font-body);
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 16px;
   line-height: 1.5;
 }
 
-h1, h2 {
-  font-family: var(--font-display);
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Courier New', Courier, monospace;
 }
 
 nav a, nav button {
-  font-family: var(--font-display);
+  font-family: 'Courier New', Courier, monospace;
 }
 
 button {
-  font-family: var(--font-display);
+  font-family: 'Courier New', Courier, monospace;
   font-size: 16px;
   cursor: pointer;
 }
 
 a {
-  color: var(--fg);
+  color: #000000;
   text-decoration: underline;
 }
 
@@ -50,20 +53,7 @@ a:hover {
   text-decoration: none;
 }
 
-/* Global focus style — visible 2px solid black outline on all interactive elements */
 :focus-visible {
   outline: 2px solid #000000;
   outline-offset: 2px;
-}
-
-/* Ensure no border-radius anywhere */
-* {
-  border-radius: 0 !important;
-}
-
-/* Layout container */
-.container {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 0 24px;
 }

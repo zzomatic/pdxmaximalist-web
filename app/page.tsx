@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 import { getUpcomingEvents } from '@/lib/events'
 import type { Event } from '@/lib/types'
 import ShowsTabView from '@/components/ShowsTabView'
-import styles from './page.module.css'
 
 export const metadata: Metadata = {
   title: 'PDXmaximaLIST.info — shows',
@@ -60,11 +59,11 @@ export default function ShowsPage() {
   if (dates.length === 0) {
     return (
       <>
-        <h1 className={styles.pageHeader}>UPCOMING SHOWS</h1>
-        <div className={styles.emptyCard}>
-          <div className={styles.emptyShrug}>{'¯\\_(ツ)_/¯'}</div>
-          <div className={styles.emptyTitle}>NO SHOWS IN THE NEXT WEEK</div>
-          <div className={styles.emptySubtitle}>check back soon</div>
+        <h1 className="text-[24px] font-bold uppercase mb-6 font-mono">UPCOMING SHOWS</h1>
+        <div className="px-6 py-12 text-center flex flex-col items-center gap-4" aria-live="polite">
+          <div className="text-[28px]" aria-hidden="true">{'¯\\_(ツ)_/¯'}</div>
+          <div className="text-[18px] font-bold uppercase">NO SHOWS IN THE NEXT WEEK</div>
+          <div className="text-base">check back soon</div>
         </div>
       </>
     )

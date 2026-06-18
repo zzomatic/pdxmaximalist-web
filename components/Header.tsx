@@ -24,6 +24,7 @@ export default function Header() {
           <h1 className="font-mono text-[22px] sm:text-[28px] font-bold leading-[1.2]">PDXmaximaLIST.info/</h1>
         </div>
         <nav className="flex flex-wrap gap-0 border-b border-black" aria-label="Main navigation">
+        {/* <nav className="flex flex-wrap gap-0" aria-label="Main navigation"> */}
           {navLinks.map(({ label, href }) => {
             const isActive = pathname === href
             return (

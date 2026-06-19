@@ -4,8 +4,9 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
 const navLinks = [
-  { label: 'SHOW LIST', href: '/' },
-  { label: 'MORE LISTS', href: '/more-lists' },
+  { label: 'SHOWS', href: '/' },
+  { label: 'FREE WEEKLY FLYER', href: '/merch/free-flyer' },
+  // { label: 'MORE LISTS', href: '/more-lists' },
   // { label: 'places & spaces', href: '/places' },
   { label: 'MERCH', href: '/merch' },
   { label: 'ABOUT', href: '/about' },

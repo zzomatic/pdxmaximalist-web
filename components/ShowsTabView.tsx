@@ -17,16 +17,24 @@ type Props = {
   tabAriaLabels: Record<string, string>
   dateHeaders: Record<string, string>
 }
-
 const tabBase = [
   'border-0 shadow-none',
   'px-[0px] py-[4px] m-0',
-  'font-mono text-[13px] leading-none',
+  'font-[Helvetica,Arial,sans-serif] text-[14px] leading-none',
   'cursor-pointer',
   'transition-all duration-100',
   'hover:bg-black hover:text-white',
   'focus-visible:outline-2 focus-visible:outline-black focus-visible:outline-offset-2',
 ].join(' ')
+// const tabBase = [
+//   'border-0 shadow-none',
+//   'px-[0px] py-[4px] m-0',
+//   'font-mono text-[14px] leading-none',
+//   'cursor-pointer',
+//   'transition-all duration-100',
+//   'hover:bg-black hover:text-white',
+//   'focus-visible:outline-2 focus-visible:outline-black focus-visible:outline-offset-2',
+// ].join(' ')
 
 const tabActive = 'font-bold bg-black text-white'
 const tabInactive = 'font-normal bg-white text-black'

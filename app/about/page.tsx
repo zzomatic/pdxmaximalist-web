@@ -25,7 +25,7 @@ export default function AboutPage() {
         Donate money to keep this project going: <a href="https://buymeacoffee.com/xomatic.studio" target="_blank" rel="noopener noreferrer">buy me a coffee</a>
       </p>
 
-      <h2 className="text-[24px] font-bold font-mono mb-6">FRIENDS & INSPIRATIONS</h2>
+      <h2 className="text-[18px] font-bold font-mono">FRIENDS & INSPIRATIONS</h2>
       <ul>
           <li><a href='/places'>Places</a> to see live music in Portland, OR</li>
           <li><a href="https://flyerescape.dad" target="_blank" rel="noopener noreferrer">flyerescape.dad</a> list of PDX show flyers</li>

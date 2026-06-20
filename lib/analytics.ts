@@ -10,6 +10,7 @@ export type AnalyticsEvent =
   | 'show_ticket_click'
   | 'show_info_click'
   | 'date_tab_switched'
+  | 'qr_scan'
 
 export function track(event: AnalyticsEvent, props?: Record<string, unknown>): void {
   if (typeof window === 'undefined') return

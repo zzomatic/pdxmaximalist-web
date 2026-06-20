@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { getUpcomingEvents } from '@/lib/events'
 import type { Event } from '@/lib/types'
 import ShowsTabView from '@/components/ShowsTabView'
+import { Suspense } from 'react'
+import QrScanTracker from '@/components/QrScanTracker'
 
 export const metadata: Metadata = {
   title: 'PDXmaximaLIST.info — shows',
@@ -59,6 +61,9 @@ export default function ShowsPage() {
   if (dates.length === 0) {
     return (
       <>
+        <Suspense fallback={null}>
+          <QrScanTracker />
+        </Suspense>
         <h1 className="text-[24px] font-bold uppercase mb-6 font-mono">UPCOMING SHOWS</h1>
         <div className="px-6 py-12 text-center flex flex-col items-center gap-4" aria-live="polite">
           <div className="text-[28px]" aria-hidden="true">{'¯\\_(ツ)_/¯'}</div>
@@ -73,5 +78,12 @@ export default function ShowsPage() {
   const tabAriaLabels = Object.fromEntries(dates.map(d => [d, formatTabAriaLabel(d)]))
   const dateHeaders = Object.fromEntries(dates.map(d => [d, formatDateHeader(d)]))
 
-  return <ShowsTabView grouped={grouped} dates={dates} tabLabels={tabLabels} tabAriaLabels={tabAriaLabels} dateHeaders={dateHeaders} />
+  return (
+    <>
+      <Suspense fallback={null}>
+        <QrScanTracker />
+      </Suspense>
+      <ShowsTabView grouped={grouped} dates={dates} tabLabels={tabLabels} tabAriaLabels={tabAriaLabels} dateHeaders={dateHeaders} />
+    </>
+  )
 }

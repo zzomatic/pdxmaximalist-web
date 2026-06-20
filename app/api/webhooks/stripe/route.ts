@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server'
 import type Stripe from 'stripe'
 import { getStripe } from '@/lib/stripe'
 import { upsertSubscriber, updateSubscriberStatus } from '@/lib/subscribers'
-import { getPostHogClient } from '@/lib/posthog-server'
 
 export async function POST(request: NextRequest) {
   const body = await request.text()
@@ -85,8 +84,6 @@ export async function POST(request: NextRequest) {
       console.log('[stripe] customer.subscription.deleted', sub.id)
       try {
         await updateSubscriberStatus(sub.id, 'canceled')
-        const email = sub.metadata?.email ?? sub.id
-       
       } catch (err) {
         console.error('[stripe] failed to cancel subscriber:', err)
       }

@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react'
 import type { Event } from '@/lib/types'
 import VenueGroup from './VenueGroup'
+import { track } from '@/lib/analytics'
 
 type VenueGroupData = {
   venue_name: string
@@ -116,7 +117,10 @@ export default function ShowsTabView({
                 aria-selected={isActive}
                 aria-label={tabAriaLabels[date] ?? tabLabels[date] ?? date}
                 className={`${tabBase} ${isActive ? tabActive : tabInactive}`}
-                onClick={() => setActiveDate(date)}
+                onClick={() => {
+                  setActiveDate(date)
+                  if (date !== activeDate) track('date_tab_switched', { date })
+                }}
               >
                 <span aria-hidden="true">/</span>
                 {tabLabels[date] ?? date}

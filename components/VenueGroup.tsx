@@ -1,5 +1,7 @@
+'use client'
 import type { Event } from '@/lib/types'
 import { formatTime } from '@/lib/utils'
+import { track } from '@/lib/analytics'
 
 type Props = {
   venue_name: string
@@ -29,20 +31,22 @@ export default function VenueGroup({ venue_name, venue_address, shows }: Props) 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-2 no-underline font-mono text-[12px] bg-white text-black transition-all duration-100 min-h-[28px] hover:bg-black hover:text-white hover:no-underline"
+                    onClick={() => track('show_info_click', { artist: show.artist, venue: venue_name, date: show.date })}
                   >
                     <span aria-hidden="true">//</span>more info<span aria-hidden="true">//</span>
                   </a>
                 )}
-                {/* {show.ticket_url && (
+                {show.ticket_url && (
                   <a
                     href={show.ticket_url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-2 no-underline font-mono text-[12px] bg-white text-black transition-all duration-100 min-h-[28px] hover:bg-black hover:text-white hover:no-underline"
+                    onClick={() => track('show_ticket_click', { artist: show.artist, venue: venue_name, date: show.date })}
                   >
                     //get tickets//
                   </a>
-                )} */}
+                )}
               </div>
             )}
           </div>

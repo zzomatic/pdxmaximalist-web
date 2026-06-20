@@ -22,7 +22,7 @@ export default function EventCard({ event }: Props) {
           {event.ticket_url && (
             <a href={event.ticket_url} target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center no-underline font-mono text-[14px] bg-white text-black transition-all duration-100 min-h-[30px] hover:bg-black hover:text-white hover:no-underline">
-              //get tickets//
+              <span aria-hidden="true">//</span>get tickets<span aria-hidden="true">//</span>
             </a>
           )}
         </div>

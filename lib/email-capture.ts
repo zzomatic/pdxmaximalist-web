@@ -9,8 +9,8 @@ export async function captureEmail(email: string): Promise<void> {
   const audienceId = process.env.RESEND_AUDIENCE_ID
 
   if (!apiKey || !audienceId) {
-    console.log('[email-capture] Resend not configured — skipping capture for:', email)
-    return
+    console.error('[email-capture] Resend not configured — RESEND_API_KEY or RESEND_AUDIENCE_ID missing')
+    throw new Error('Email capture is not configured')
   }
 
   const resend = new Resend(apiKey)
@@ -20,5 +20,8 @@ export async function captureEmail(email: string): Promise<void> {
     unsubscribed: false,
   })
 
-  if (error) throw new Error(error.message)
+  if (error) {
+    console.error('[email-capture] Resend API error:', error)
+    throw new Error(error.message)
+  }
 }

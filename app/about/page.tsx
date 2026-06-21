@@ -29,7 +29,7 @@ export default function AboutPage() {
 <br></br>
       <h2 className="text-[18px] font-bold font-mono">FRIENDS & INSPIRATIONS</h2>
       <ul>
-          <li><a href='/places'>Places</a> to see live music in Portland, OR</li>
+          {/* <li><a href='/places'>Places</a> to see live music in Portland, OR</li> */}
           <li><a href="https://flyerescape.dad" className="font-bold underline" target="_blank" rel="noopener noreferrer">flyerescape.dad</a> list of PDX show flyers</li>
           <li><a href="http://www.foopee.com/punk/the-list/" className="font-bold underline" target="_blank" rel="noopener noreferrer">The List</a> our SF inspiration</li>
           <li><a href="https://portland.craigslist.org/" className="font-bold underline" target="_blank" rel="noopener noreferrer">Craigslist</a> web 1.0 classic</li>

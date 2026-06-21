@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
     await captureEmail(email.trim().toLowerCase())
     return NextResponse.json({ ok: true })
   } catch (err) {
-    console.error('[capture-email]', err)
+    console.error('[capture-email] failed for', email.trim().toLowerCase(), '-', err)
     return NextResponse.json(
       { error: 'Failed to subscribe. Please try again.' },
       { status: 500 }

@@ -8,7 +8,7 @@ const navLinks = [
   { label: 'FREE WEEKLY FLYER', href: '/merch/free-flyer' },
   // { label: 'MORE LISTS', href: '/more-lists' },
   // { label: 'places & spaces', href: '/places' },
-  { label: 'MERCH', href: '/merch' },
+  // { label: 'MERCH', href: '/merch' },
   { label: 'ABOUT', href: '/about' },
   // { label: 'contact', href: '/contact' },
 ]

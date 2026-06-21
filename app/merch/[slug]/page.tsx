@@ -29,11 +29,11 @@ export default async function MerchDetailPage({ params }: Props) {
   return (
     <>
       <PageViewTracker event="merch_product_view" props={{ product: product.id }} />
-      <nav className="mb-6">
+      {/* <nav className="mb-6">
         <Link href="/merch" className="font-mono text-[14px] text-black underline hover:no-underline">
           ← merch
         </Link>
-      </nav>
+      </nav> */}
 
       <div className="border-4 border-black shadow-[4px_4px_0px_#000] p-8 flex flex-col gap-6">
         <h1 className="font-mono text-[24px] font-bold uppercase">{product.name}</h1>

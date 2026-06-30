@@ -6,7 +6,8 @@ import { usePathname } from 'next/navigation'
 const navLinks = [
   { label: 'SHOWS', href: '/' },
   { label: 'FREE WEEKLY FLYER', href: '/merch/free-flyer' },
-  // { label: 'MORE LISTS', href: '/more-lists' },
+  { label: 'FLYERS', href: '/flyers' },
+  { label: 'SUPPORT', href: '/support' },
   // { label: 'places & spaces', href: '/places' },
   // { label: 'MERCH', href: '/merch' },
   { label: 'ABOUT', href: '/about' },
@@ -15,8 +16,8 @@ const navLinks = [
 
 const tabBase = [
   'inline-flex items-center min-h-[44px]',
-  'py-1 px-[3px] text-[14px]',
-  'sm:inline-block sm:min-h-0 sm:py-[5px] sm:px-[10px] sm:text-[18px]',
+  'py-1 px-[2px] text-[14px]',
+  'sm:inline-block sm:min-h-0 sm:py-[5px] sm:px-[5px] sm:text-[18px]',
   'no-underline font-mono',
   'transition-all duration-100',
   'hover:bg-black hover:text-white hover:no-underline',
@@ -57,9 +58,9 @@ export default function Header() {
                 className={`${tabBase} ${isActive ? tabActive : tabInactive}`}
                 aria-current={isActive ? 'page' : undefined}
               >
-                <span aria-hidden="true">//</span>
+                <span aria-hidden="true">/</span>
                 {label}
-                <span aria-hidden="true">//</span>
+                <span aria-hidden="true">/</span>
               </Link>
             )
           })}

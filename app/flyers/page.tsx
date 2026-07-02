@@ -16,7 +16,7 @@ export default function FlyersPage() {
     <>
       <h1 className="text-[24px] font-bold font-mono mb-6">FLYERS</h1>
       <p className="mb-4 font-mono text-[14px]">{files.length} flyers</p>
-      <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+      <div className="grid grid-cols-2 sm:grid-cols-3 gap-0">
         {files.map(filename => (
           <div key={filename} className="overflow-hidden">
             <img

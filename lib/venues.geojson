@@ -1,0 +1,2120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62641517802,
+          45.51199802987
+        ]
+      },
+      "properties": {
+        "name": "Afterlife",
+        "img": "",
+        "desc": "",
+        "url": "https://afterlifepdx.bar/events",
+        "address": "3632 SE Hawthorne Blvd, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.654295382657,
+          45.50103215999
+        ]
+      },
+      "properties": {
+        "name": "Aladdin Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://www.aladdin-theater.com/#shows-feed",
+        "address": "3017 SE Milwaukie Ave, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.664060205585,
+          45.559056205352
+        ]
+      },
+      "properties": {
+        "name": "Alberta Abbey",
+        "img": "",
+        "desc": "",
+        "url": "https://www.albertaabbey.org/calendar",
+        "address": "126 NE Alberta St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.634776685781,
+          45.558981232861
+        ]
+      },
+      "properties": {
+        "name": "Alberta Rose Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://albertarosetheatre.com/calendar/",
+        "address": "3000 NE Alberta St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.655205088766,
+          45.559053234955
+        ]
+      },
+      "properties": {
+        "name": "Alberta Street Pub",
+        "img": "",
+        "desc": "",
+        "url": "https://www.albertastreetpub.com/music",
+        "address": "1036 NE Alberta St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.640632242067,
+          45.559113824852
+        ]
+      },
+      "properties": {
+        "name": "Alleyway",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/alleywayalberta/",
+        "address": "2415 NE Alberta St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683203829352,
+          45.522683463888
+        ]
+      },
+      "properties": {
+        "name": "Als Den",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/crystal-hotel/als-den",
+        "address": "303 SW 12th Ave, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.645497690322,
+          45.499616573584
+        ]
+      },
+      "properties": {
+        "name": "Artichoke Music",
+        "img": "",
+        "desc": "",
+        "url": "https://artichokemusic.org/",
+        "address": "2007 SE Powell Blvd, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.675470590909,
+          45.548320913472
+        ]
+      },
+      "properties": {
+        "name": "Atlantis Lounge",
+        "img": "",
+        "desc": "",
+        "url": "https://mississippipizza.com/calendar/",
+        "address": "3552 N Mississippi Ave, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Azoth",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/azothcommunity/",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.671944441282,
+          45.52096096305
+        ]
+      },
+      "properties": {
+        "name": "Barn Radio",
+        "img": "",
+        "desc": "",
+        "url": "https://www.barnradio.live/",
+        "address": "215 SW 1st Ave, Portland, OR 97204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673490367742,
+          45.523910631013
+        ]
+      },
+      "properties": {
+        "name": "Barrel Room",
+        "img": "",
+        "desc": "",
+        "url": "https://www.barrelroompdx.com/",
+        "address": "105 NW 3rd Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.657206167018,
+          45.53511647832
+        ]
+      },
+      "properties": {
+        "name": "Black Water",
+        "img": "",
+        "desc": "",
+        "url": "https://www.blackwaterpdx.com/",
+        "address": "835 NE Broadway, Portland, OR 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665750252851,
+          45.515590264665
+        ]
+      },
+      "properties": {
+        "name": "Bunk Bar",
+        "img": "",
+        "desc": "",
+        "url": "https://shows.bunksandwiches.com/",
+        "address": "1028 SE Water AVE Suite 130 Portland OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.640201204489,
+          45.503325236642
+        ]
+      },
+      "properties": {
+        "name": "Clinton St Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://cstpdx.com/",
+        "address": "2522 SE Clinton St, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660807426695,
+          45.519898776165
+        ]
+      },
+      "properties": {
+        "name": "Coffin Club",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thecoffinclubpdx.com/",
+        "address": "421 SE Grand Ave, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.579019755323,
+          45.516843772421
+        ]
+      },
+      "properties": {
+        "name": "Covert Cafe",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thecovertcafe.com/events",
+        "address": "803 SE 82nd Ave Portland, OR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68450705354,
+          45.522840393797
+        ]
+      },
+      "properties": {
+        "name": "Crystal Ballroom",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/crystal-ballroom",
+        "address": "1332 W Burnside St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673794221282,
+          45.523054770057
+        ]
+      },
+      "properties": {
+        "name": "Dante's",
+        "img": "",
+        "desc": "",
+        "url": "https://www.danteslive.com/",
+        "address": "350 W Burnside St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661399488702,
+          45.549441236147
+        ]
+      },
+      "properties": {
+        "name": "Dream House",
+        "img": "",
+        "desc": "",
+        "url": "https://dreamhousepdx.com",
+        "address": "412 NE Beech St, Portland, OR 97212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403862321958,
+          45.538749492084
+        ]
+      },
+      "properties": {
+        "name": "Edgefield",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/edgefield",
+        "address": "2126 SW Halsey St, Troutdale, OR 97060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.662812087755,
+          45.523841970567
+        ]
+      },
+      "properties": {
+        "name": "Exchange Ballroom",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "123 NE 3rd Ave, Portland, OR 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.654796030585,
+          45.509082403206
+        ]
+      },
+      "properties": {
+        "name": "Firkin Tavern",
+        "img": "",
+        "desc": "",
+        "url": "https://www.firkintavern.com/",
+        "address": "1937 SE 11th Ave, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.597313813808,
+          45.490809780423
+        ]
+      },
+      "properties": {
+        "name": "Hallowed Halls",
+        "img": "",
+        "desc": "",
+        "url": "https://www.hallowedhallspdx.com/",
+        "address": "4420 SE 64th Ave, Portland, OR 97206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.756427694988,
+          45.591860037084
+        ]
+      },
+      "properties": {
+        "name": "Havalina",
+        "img": "",
+        "desc": "",
+        "url": "https://havalinapdx.com/events",
+        "address": "8927 N Lombard St, Portland, OR 97203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Haven",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thehavenpdx.com/",
+        "address": "2505 NE Pacific St, Portland, OR, 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.643088262533,
+          45.512133827824
+        ]
+      },
+      "properties": {
+        "name": "Hawthorne Hideaway",
+        "img": "",
+        "desc": "",
+        "url": "https://www.hawthornehideaway.com/",
+        "address": "2221 SE Hawthorne Blvd, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Hawthorne Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://hawthornetheatre.com/",
+        "address": "1507 SE Cesar E Chavez Blvd, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679463700842,
+          45.56271642071
+        ]
+      },
+      "properties": {
+        "name": "Haymaker",
+        "img": "",
+        "desc": "",
+        "url": "http://www.haymakerportland.com/",
+        "address": "1233 N Killingsworth St, Portland, OR 97217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.656393529991,
+          45.52286197487
+        ]
+      },
+      "properties": {
+        "name": "Hey Love",
+        "img": "",
+        "desc": "",
+        "url": "https://www.heylovepdx.com/",
+        "address": "920 E Burnside St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673794221282,
+          45.523054770057
+        ]
+      },
+      "properties": {
+        "name": "High Limit Room",
+        "img": "",
+        "desc": "",
+        "url": "http://highlimitroompdx.com/",
+        "address": "350 W Burnside St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.559099680427,
+          45.504262126146
+        ]
+      },
+      "properties": {
+        "name": "Hoan Kiem",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "10140 SE Division St, Portland, OR 97266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.620823276561,
+          45.535654940016
+        ]
+      },
+      "properties": {
+        "name": "Hollywood Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://hollywoodtheatre.org/",
+        "address": "4122 NE Sandy Blvd, Portland, OR 97212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65558925207,
+          45.517263828809
+        ]
+      },
+      "properties": {
+        "name": "Holocene",
+        "img": "",
+        "desc": "",
+        "url": "https://www.holocene.org/",
+        "address": "1001 SE Morrison St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Hoku",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67602726073,
+          45.519668579107
+        ]
+      },
+      "properties": {
+        "name": "Jack London Revue",
+        "img": "",
+        "desc": "",
+        "url": "https://www.jacklondonrevue.com/",
+        "address": "529 SW 4th Ave, Portland, OR 97204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.630298223613,
+          45.479249715844
+        ]
+      },
+      "properties": {
+        "name": "Kaul Auditorium",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "3203 SE Woodstock Blvd, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.677733236593,
+          45.512679073245
+        ]
+      },
+      "properties": {
+        "name": "Keller Auditorium",
+        "img": "",
+        "desc": "",
+        "url": "https://www.portland5.com/keller-auditorium",
+        "address": "222 SW Clay St, Portland, OR 97201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676171304425,
+          45.519889052026
+        ]
+      },
+      "properties": {
+        "name": "Kelly's Olympian",
+        "img": "",
+        "desc": "",
+        "url": "https://kellysolympian.com/",
+        "address": "426 SW Washington St, Portland, OR 97204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660237290382,
+          45.562794826653
+        ]
+      },
+      "properties": {
+        "name": "Keys Lounge",
+        "img": "",
+        "desc": "",
+        "url": "https://www.keysloungepdx.com/",
+        "address": "533 NE Killingsworth St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Kickstand",
+        "img": "",
+        "desc": "",
+        "url": "https://www.kickstandcomedy.org/",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661836783579,
+          45.523770194811
+        ]
+      },
+      "properties": {
+        "name": "L'Atelier Yaffe",
+        "img": "",
+        "desc": "",
+        "url": "https://www.atelieryaffe.com/",
+        "address": "111 NEW MLK BLVD Portland, OR 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65810973324,
+          45.571716234522
+        ]
+      },
+      "properties": {
+        "name": "LaVerne's",
+        "img": "",
+        "desc": "",
+        "url": "https://lavernespdx.com/events",
+        "address": "700 NE Dekum St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.635082853471,
+          45.526405006938
+        ]
+      },
+      "properties": {
+        "name": "Laurelthirst",
+        "img": "",
+        "desc": "",
+        "url": "https://laurelthirst.com/",
+        "address": "2958 NE Glisan St, Portland, OR 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.644893078365,
+          45.56228826563
+        ]
+      },
+      "properties": {
+        "name": "Leaven",
+        "img": "",
+        "desc": "",
+        "url": "https://leaven.org/",
+        "address": "5431 NE 20th Ave, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68385605943,
+          45.513434788635
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Hall, PSU",
+        "img": "",
+        "desc": "",
+        "url": "https://www.pdx.edu/the-arts/lincoln-hall",
+        "address": "1620 SW Park Ave, Portland, OR 97201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.654483605394,
+          45.531629224073
+        ]
+      },
+      "properties": {
+        "name": "Lloyd Center Ice Rink, 953 Lloyd Center, Ground Floor Atrium",
+        "img": "",
+        "desc": "",
+        "url": "https://lloydcenterice.com/",
+        "address": "953 Lloyd Center, Portland, OR 97232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.600109068574,
+          45.548275102518
+        ]
+      },
+      "properties": {
+        "name": "Mad Hanna",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "6127 NE Fremont St, Portland, OR 97213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Makin' Groceries",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.086100929146,
+          45.52025531405
+        ]
+      },
+      "properties": {
+        "name": "McMenamins Grand Lodge",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/grand-lodge",
+        "address": "3505 Pacific Ave, Forest Grove, OR 97116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674370525598,
+          45.524716230608
+        ]
+      },
+      "properties": {
+        "name": "Ming Lounge",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "222 NW 4th Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.675455283001,
+          45.551036795882
+        ]
+      },
+      "properties": {
+        "name": "Mint Gallery",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mintgalleryrecords.com",
+        "address": "3912 N. Mississippi Ave. Portland, Oregon 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Mischief Manor",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.687587798762,
+          45.52636267923
+        ]
+      },
+      "properties": {
+        "name": "Mission Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/mission-theater",
+        "address": "1624 NW Glisan St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674907242656,
+          45.560502932322
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Records",
+        "img": "",
+        "desc": "",
+        "url": "https://mississippirecords.net/",
+        "address": "5202 N Albina Ave, Portland, OR 97217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67561674773,
+          45.551341253352
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Studios",
+        "img": "",
+        "desc": "",
+        "url": "https://mississippistudios.com/",
+        "address": "3939 N Mississippi Ave, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684226783932,
+          45.52730402438
+        ]
+      },
+      "properties": {
+        "name": "Mono Space",
+        "img": "",
+        "desc": "",
+        "url": "https://mono-space.org/",
+        "address": "608 NW 13th Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660480637739,
+          45.51728182931
+        ]
+      },
+      "properties": {
+        "name": "Mother Foucault's",
+        "img": "",
+        "desc": "",
+        "url": "https://www.motherfoucaultsbookshop.com/",
+        "address": "523 SE Morrison St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65928006831,
+          45.519305438025
+        ]
+      },
+      "properties": {
+        "name": "Musique Plastique",
+        "img": "",
+        "desc": "",
+        "url": "https://musique-plastique.com/",
+        "address": "640 SE Stark Street, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651620273217,
+          45.504897829118
+        ]
+      },
+      "properties": {
+        "name": "My Vinyl Underground",
+        "img": "",
+        "desc": "",
+        "url": "https://jigsaw-records.com/pages/my-vinyl-underground",
+        "address": "1401 SE Division St basement, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63795951472,
+          45.51649744214
+        ]
+      },
+      "properties": {
+        "name": "Nest Lounge",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/nestloungepdx",
+        "address": "2715 SE Belmont St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65691578438,
+          45.516447237595
+        ]
+      },
+      "properties": {
+        "name": "New Expressive Works",
+        "img": "",
+        "desc": "",
+        "url": "https://newexpressiveworks.org/",
+        "address": "810 SE Belmont St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681201362753,
+          45.516594513121
+        ]
+      },
+      "properties": {
+        "name": "Newmark Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://www.portland5.com/newmark-theatre",
+        "address": "1111 SW Broadway, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.648454957427,
+          45.512250828368
+        ]
+      },
+      "properties": {
+        "name": "No Fun",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/nofunpdx/",
+        "address": "1709 SE Hawthorne Blvd, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658404662953,
+          45.522864237377
+        ]
+      },
+      "properties": {
+        "name": "Nova",
+        "img": "",
+        "desc": "",
+        "url": "https://www.novapdxevents.com/",
+        "address": "722 E Burnside St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "The Off Beat",
+        "img": "",
+        "desc": "",
+        "url": "https://friendsofnoise.org/the-off-beat/",
+        "address": "Off Beat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682310197143,
+          45.547809829786
+        ]
+      },
+      "properties": {
+        "name": "Overlook Park",
+        "img": "",
+        "desc": "",
+        "url": "https://www.portland.gov/parks/overlook-park",
+        "address": "1599 N Fremont St, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6657732743,
+          45.536569547978
+        ]
+      },
+      "properties": {
+        "name": "PICA",
+        "img": "",
+        "desc": "",
+        "url": "https://pica.org/",
+        "address": "15 NE Hancock St, Portland, OR 97212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.677654257287,
+          45.526728148649
+        ]
+      },
+      "properties": {
+        "name": "PNCA",
+        "img": "",
+        "desc": "",
+        "url": "https://pnca.willamette.edu/",
+        "address": "511 NW Broadway, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.656533126248,
+          45.515016237639
+        ]
+      },
+      "properties": {
+        "name": "PVVK",
+        "img": "",
+        "desc": "",
+        "url": "https://www.pvvkunst.com/events",
+        "address": "910 SE Taylor, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673280270101,
+          45.522963631842
+        ]
+      },
+      "properties": {
+        "name": "Paris Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://www.paristheatrepdx.com/",
+        "address": "6 SW 3rd Ave, Portland, OR 97204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67871685961,
+          45.519017340825
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Courthouse Square",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thesquarepdx.org/",
+        "address": "701 SW 6th Ave, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658092859395,
+          45.571716234521
+        ]
+      },
+      "properties": {
+        "name": "Pivot Studio at The Village Ballroom",
+        "img": "",
+        "desc": "",
+        "url": "https://www.villageballroom.com/",
+        "address": "704 NE Dekum St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67332283682,
+          45.561930828048
+        ]
+      },
+      "properties": {
+        "name": "Polaris Hall",
+        "img": "",
+        "desc": "",
+        "url": "https://polarishall.com/",
+        "address": "635 N Killingsworth Ct, Portland, OR 97217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.671647020022,
+          45.523806516661
+        ]
+      },
+      "properties": {
+        "name": "Portland Arts Collective",
+        "img": "",
+        "desc": "",
+        "url": "https://www.portlandartscollective.org/",
+        "address": "122 NW Couch Street Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68206531683,
+          45.523898249403
+        ]
+      },
+      "properties": {
+        "name": "Portland Center Stage",
+        "img": "",
+        "desc": "",
+        "url": "https://www.pcs.org/",
+        "address": "128 NW 11th Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.695883548575,
+          45.518733541489
+        ]
+      },
+      "properties": {
+        "name": "Portland First United Methodist Church",
+        "img": "",
+        "desc": "",
+        "url": "https://fumcpdx.org/",
+        "address": "1838 SW Jefferson St, Portland, OR 97201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.706869160015,
+          45.518958184571
+        ]
+      },
+      "properties": {
+        "name": "Portland Japanese Garden",
+        "img": "",
+        "desc": "",
+        "url": "https://japanesegarden.org/",
+        "address": "611 SW Kingston Ave, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.649861068595,
+          45.486159708058
+        ]
+      },
+      "properties": {
+        "name": "Process",
+        "img": "",
+        "desc": "",
+        "url": "https://www.processpdx.club",
+        "address": "5040 SE Milwaukie Ave, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.659516684784,
+          45.51799282917
+        ]
+      },
+      "properties": {
+        "name": "Realm",
+        "img": "",
+        "desc": "",
+        "url": "https://realmpdx.com/events/",
+        "address": "615 SE Alder St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.806513323717,
+          45.491109556197
+        ]
+      },
+      "properties": {
+        "name": "Reser Center",
+        "img": "",
+        "desc": "",
+        "url": "https://thereser.org/",
+        "address": "12625 SW Crescent St, Beaverton, OR 97005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65168479499,
+          45.519282236895
+        ]
+      },
+      "properties": {
+        "name": "Revolution Hall",
+        "img": "",
+        "desc": "",
+        "url": "https://www.revolutionhall.com/",
+        "address": "1300 SE Stark St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676366142183,
+          45.523148942643
+        ]
+      },
+      "properties": {
+        "name": "Roseland",
+        "img": "",
+        "desc": "",
+        "url": "https://roselandpdx.com/",
+        "address": "8 NW 6th Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.653542106552,
+          45.52000198669
+        ]
+      },
+      "properties": {
+        "name": "SJAC",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "400 SE 12th Ave, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.036816488968,
+          44.94049473949
+        ]
+      },
+      "properties": {
+        "name": "Salem's Historic Grand Theatre - Ballroom",
+        "img": "",
+        "desc": "",
+        "url": "https://salemshistoricgrand.com/",
+        "address": "187 High St NE, Salem, OR 97301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.036816488968,
+          44.94049473949
+        ]
+      },
+      "properties": {
+        "name": "Salem's Historic Grand Theatre - Theatre",
+        "img": "",
+        "desc": "",
+        "url": "https://salemshistoricgrand.com/",
+        "address": "187 High St NE, Salem, OR 97301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658214083772,
+          45.522864237357
+        ]
+      },
+      "properties": {
+        "name": "Second Chance Records",
+        "img": "",
+        "desc": "",
+        "url": "https://secondchancerecords.com/events",
+        "address": "744 E Burnside St Ste 104, Portland, OR 97215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685552575705,
+          45.525808656251
+        ]
+      },
+      "properties": {
+        "name": "Secret Grove",
+        "img": "",
+        "desc": "",
+        "url": "https://secretgrovecollective.com/events",
+        "address": "1425A NW Flanders St, Portland, OR, 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6723874518,
+          45.522594685152
+        ]
+      },
+      "properties": {
+        "name": "Shanghai Tunnel",
+        "img": "",
+        "desc": "",
+        "url": "https://www.shanghaitunnelbarpdx.com/upcomin-shows",
+        "address": "211 SW Ankeny St, Portland, OR 97204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65168479499,
+          45.519282236895
+        ]
+      },
+      "properties": {
+        "name": "Show Bar",
+        "img": "",
+        "desc": "",
+        "url": "https://www.revolutionhall.com/show-bar/",
+        "address": "1300 SE Stark St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673637630741,
+          45.524595202214
+        ]
+      },
+      "properties": {
+        "name": "Siren Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://www.sirentheater.com/",
+        "address": "315 NW Davis St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.620004821269,
+          45.536707661437
+        ]
+      },
+      "properties": {
+        "name": "Sonder Listening Bar",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thesonderbar.com/schedule-1",
+        "address": "1925 NE 42nd Ave, Portland, OR 97213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430888852772,
+          45.500601447465
+        ]
+      },
+      "properties": {
+        "name": "Spinella's",
+        "img": "",
+        "desc": "",
+        "url": "https://spinellasoffthewall.com/",
+        "address": "436 N Main Ave, Gresham, OR 97030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676518408183,
+          45.523204065035
+        ]
+      },
+      "properties": {
+        "name": "Star Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://www.startheaterportland.com/",
+        "address": "13 NW 6th Ave, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.595564651743,
+          45.489194374622
+        ]
+      },
+      "properties": {
+        "name": "Starday Tavern",
+        "img": "",
+        "desc": "",
+        "url": "https://www.stardaytavern.com/",
+        "address": "6517 SE Foster Rd, Portland, OR 97206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661514194089,
+          45.542360906112
+        ]
+      },
+      "properties": {
+        "name": "Super-Electric Records",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/superelectric_records/",
+        "address": "2730 NE Martin Luther King Jr Blvd, Portland, OR 97212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660824291843,
+          45.517762986658
+        ]
+      },
+      "properties": {
+        "name": "Swan Dive",
+        "img": "",
+        "desc": "",
+        "url": "https://www.swandivepdx.com/",
+        "address": "727 SE Grand Ave, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.675075832194,
+          45.552042237402
+        ]
+      },
+      "properties": {
+        "name": "The 1905",
+        "img": "",
+        "desc": "",
+        "url": "https://the1905.org/",
+        "address": "830 N Shaver St, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.664582615963,
+          45.515754238422
+        ]
+      },
+      "properties": {
+        "name": "The Den",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thedenpdx.com/events",
+        "address": "116 SE Yamhill St. Portland, OR 97217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.659516684784,
+          45.51799282917
+        ]
+      },
+      "properties": {
+        "name": "The Get Down",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thegetdownpdx.com/",
+        "address": "615 SE Alder St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.636584241459,
+          45.519369826737
+        ]
+      },
+      "properties": {
+        "name": "The Goodfoot",
+        "img": "",
+        "desc": "",
+        "url": "https://thegoodfoot.com/",
+        "address": "2845 SE Stark St, Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66127733528,
+          45.571839948387
+        ]
+      },
+      "properties": {
+        "name": "The High Water Mark",
+        "img": "",
+        "desc": "",
+        "url": "https://www.highwatermarklounge.com/",
+        "address": "6800 NE Martin Luther King Jr Blvd, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685843334075,
+          45.51510930421
+        ]
+      },
+      "properties": {
+        "name": "The Old Church",
+        "img": "",
+        "desc": "",
+        "url": "https://www.theoldchurch.org/",
+        "address": "1422 SW 11th Ave, Portland, OR 97201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680920915724,
+          45.51711196128
+        ]
+      },
+      "properties": {
+        "name": "The Schnitz",
+        "img": "",
+        "desc": "",
+        "url": "https://www.portland5.com/arlene-schnitzer-concert-hall",
+        "address": "1037 SW Broadway, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.652801102391,
+          45.500902113706
+        ]
+      },
+      "properties": {
+        "name": "The Showdown",
+        "img": "",
+        "desc": "",
+        "url": "https://www.showdownpdx.com/",
+        "address": "1195 SE Powell Blvd, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.630362792938,
+          45.516507826265
+        ]
+      },
+      "properties": {
+        "name": "The Six",
+        "img": "",
+        "desc": "",
+        "url": "https://themidnightsocietypdx.net/",
+        "address": "3341 Se Belmont Street, Portland, OR. 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.593131108055,
+          45.534814573388
+        ]
+      },
+      "properties": {
+        "name": "The Snug",
+        "img": "",
+        "desc": "",
+        "url": "https://snugpdx.com/events/",
+        "address": "6806 NE Broadway, Portland, OR 97213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.620321182986,
+          45.557755691343
+        ]
+      },
+      "properties": {
+        "name": "The Spare Room",
+        "img": "",
+        "desc": "",
+        "url": "https://spareroomrestaurantandlounge.com/",
+        "address": "4830 NE 42nd Ave, Portland, OR 97218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.667689993453,
+          45.532998050499
+        ]
+      },
+      "properties": {
+        "name": "Theater of the Clouds",
+        "img": "",
+        "desc": "",
+        "url": "https://www.rosequarter.com/venue/theater-of-the-clouds",
+        "address": "1 N Center Court St, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.607995908871,
+          45.495219742802
+        ]
+      },
+      "properties": {
+        "name": "Thunderbird Bar",
+        "img": "",
+        "desc": "",
+        "url": "https://www.thunderbirdbarpdx.com/",
+        "address": "5339 SE Foster Rd, Portland, OR 97206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.627801529999,
+          45.504738235288
+        ]
+      },
+      "properties": {
+        "name": "Tomorrow Theater",
+        "img": "",
+        "desc": "",
+        "url": "https://tomorrowtheater.org/",
+        "address": "3530 SE Division St, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.610965087984,
+          45.505243523633
+        ]
+      },
+      "properties": {
+        "name": "Trouble Bar",
+        "img": "",
+        "desc": "",
+        "url": "",
+        "address": "5008 SE Division St, Portland, OR 97206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.666616077937,
+          45.562662235919
+        ]
+      },
+      "properties": {
+        "name": "Turn! Turn! Turn!",
+        "img": "",
+        "desc": "",
+        "url": "https://turnturnturnpdx.com/",
+        "address": "8 NE Killingsworth St, Portland, OR 97211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651884837719,
+          45.500542299051
+        ]
+      },
+      "properties": {
+        "name": "Twilight",
+        "img": "",
+        "desc": "",
+        "url": "https://twilightcafeandbar.com/",
+        "address": "1420 SE Powell Blvd, Portland, OR 97202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.583017331049,
+          45.519216821251
+        ]
+      },
+      "properties": {
+        "name": "Vino Veritas",
+        "img": "",
+        "desc": "",
+        "url": "https://www.vinoveritaspdx.com/",
+        "address": "7835 SE Stark St, Portland, OR 97215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "name": "Watershed PDX",
+        "img": "",
+        "desc": "",
+        "url": "https://watershedpdx.com/",
+        "address": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.666574837334,
+          45.545537797974
+        ]
+      },
+      "properties": {
+        "name": "Waypost",
+        "img": "",
+        "desc": "",
+        "url": "https://thewaypost.com/",
+        "address": "3120 N Williams Ave, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.675198380396,
+          45.540954238055
+        ]
+      },
+      "properties": {
+        "name": "White Eagle",
+        "img": "",
+        "desc": "",
+        "url": "https://www.mcmenamins.com/white-eagle",
+        "address": "836 N Russell St, Portland, OR 97227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.692921245385,
+          45.527098702616
+        ]
+      },
+      "properties": {
+        "name": "William Temple House",
+        "img": "",
+        "desc": "",
+        "url": "https://www.williamtemple.org/",
+        "address": "2023 NW Hoyt St, Portland, OR 97209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.663835537041,
+          45.540864236893
+        ]
+      },
+      "properties": {
+        "name": "Wonder Ballroom",
+        "img": "",
+        "desc": "",
+        "url": "https://wonderballroom.com/",
+        "address": "128 NE Russell St, Portland, OR 97212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.663198704609,
+          45.513606996767
+        ]
+      },
+      "properties": {
+        "name": "WonderLove",
+        "img": "",
+        "desc": "",
+        "url": "https://wonderlovepdx.com/",
+        "address": "262 SE Main ST. Portland, OR 97214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68015217342,
+          45.52245300019
+        ]
+      },
+      "properties": {
+        "name": "Word Virus",
+        "img": "",
+        "desc": "",
+        "url": "https://www.wordvirusbooks.com/",
+        "address": "203 SW 9th Ave, Portland, OR 97205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68703546049,
+          45.582450828275
+        ]
+      },
+      "properties": {
+        "name": "World Famous Kenton Club",
+        "img": "",
+        "desc": "",
+        "url": "https://www.kentonclub.com/",
+        "address": "2025 N Kilpatrick St, Portland, OR 97217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.699928894184,
+          45.515887718139
+        ]
+      },
+      "properties": {
+        "name": "World Forestry Center",
+        "img": "",
+        "desc": "",
+        "url": "https://www.worldforestry.org/",
+        "address": "4033 SW Canyon Rd, Portland, OR 97221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59583830782,
+          45.488827131478
+        ]
+      },
+      "properties": {
+        "name": "Wyrd Hut",
+        "img": "",
+        "desc": "",
+        "url": "https://wyrdhut.com/",
+        "address": "4704 SE 65th Ave, Portland, OR 97206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674205994118,
+          45.562626236701
+        ]
+      },
+      "properties": {
+        "name": "Zero Wave",
+        "img": "",
+        "desc": "",
+        "url": "https://www.instagram.com/zer0wave/",
+        "address": "720 N Killingsworth St, Portland, OR 97217"
+      }
+    }
+  ]
+}

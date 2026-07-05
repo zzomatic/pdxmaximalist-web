@@ -14,7 +14,7 @@ export const products: Product[] = [
     id: 'free-flyer',
     slug: 'free-flyer',
     name: 'WEEKLY FLYER',
-    description: 'Get a weekly (Thursday-Wednesday) show listing condensed into one double-sided trifold. Download as a printable PDF and fold at home. Add your email to get one every week!',
+    description: 'Get a free weekly show listing condensed into one double-sided trifold. Download as a printable PDF.',
     price: null,
     recurring: false,
     comingSoon: false,

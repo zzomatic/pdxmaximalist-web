@@ -85,7 +85,7 @@ export default function FlyerForm() {
             </div>
 
             <label htmlFor="flyer-email" className="font-mono text-[14px] font-bold uppercase">
-              get it every week (optional)
+              get it sent to you every week
             </label>
             <input
               id="flyer-email"

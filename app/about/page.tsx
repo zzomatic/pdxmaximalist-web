@@ -11,15 +11,15 @@ export default function AboutPage() {
     <>
       <h1 className="text-[24px] font-bold font-mono mb-6">ABOUT</h1>
       <p>
-        This project started as a paper trifold events calendar and a desire to provide succinct accessible information about music & arts events in Portlnad, Oregon. We added a website to make the list truely accessible. As alternative to social media's grip on your nervous system, we provide minimal interface and maximum content.
+        This project started as a paper trifold events calendar and a desire to provide alternative to social media's grip on your nervous system, we provide a comprehensive music show listing with minimal interface and maximum content.
       </p>
 <br></br>
-      <h2 className="text-[18px] font-bold font-mono">A11y</h2>
+      {/* <h2 className="text-[18px] font-bold font-mono">A11y</h2>
       <p>Accessible Show Listings are priority! We try hard to keep this page accessible, though we recently added a page of images of flyers in the wild that do not have alt-text...and that is part of the problem we're solving. The alt-text is the show listing. </p>
 
-<br></br>
+<br></br> */}
       <h2 className="text-[18px] font-bold font-mono">DISCLAIMER</h2>
-      <p>Show info is sourced from events calendars and show flyers. We try hard not to, but sometimes we get it wrong. Links provided where we have them, so you can check the venue before heading to the show.</p>
+      <p>Show info is sourced from events calendars and show flyers. We try hard not to, but sometimes we get it wrong. Check the venue before heading to the show.</p>
 <br></br>
       <h2 className="text-[18px] font-bold font-mono">CONTACT PDXmaximaLIST</h2>
       <p>If you have comments, corrections, collaborations, or to contribute show flyers/info <a href="mailto:pdxmaximalist@gmail.com" className="text-decoration: underline font-bold">

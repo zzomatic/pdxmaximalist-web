@@ -36,3 +36,7 @@ yarn-error.log*
 next-env.d.ts
 .gstack/
 .env.local
+
+# extra
+/public/flyers
+/public/stacked_flyers

@@ -1,5 +1,4 @@
 import type { Metadata } from 'next'
-import styles from '@/app/shared.module.css'
 
 export const metadata: Metadata = {
   title: 'PDXmaximaLIST.info — places & spaces',

@@ -29,7 +29,7 @@ export default function FlyerForm() {
       </div>
       <div className="flex flex-col gap-3">
         <a
-          href="/PDXmaximaLIST.pdf"
+          href="/latest-flyer/PDXmaximaLIST.pdf"
           download
           className={btnClass}
           aria-label="Download the weekly flyer PDF"
